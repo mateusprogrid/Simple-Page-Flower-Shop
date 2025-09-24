@@ -1,4 +1,4 @@
-# HTML Avançado — Módulo: Plantas de Interior
+# HTML Avançado Módulo 1: Plantas de Interior
 
 Este repositório reúne exemplos práticos de **HTML5** do básico ao avançado.  
 O módulo atual demonstra uma página de catálogo simples (“Plantas de interior”) aplicando estrutura semântica, metadados para SEO, hierarquia de títulos e boas práticas com imagens.
